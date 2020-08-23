@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name isa_fdc-rescue)(type Legacy)(uri ${KIPRJMOD}/isa_fdc-rescue.lib)(options "")(descr ""))
+  (lib (name isa_fdc.kicad_DB37-v3.2.1.1_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/isa_fdc.kicad_DB37-v3.2.1.1_pcb-rescue.lib)(options "")(descr ""))
+)
